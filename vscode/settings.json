@@ -1,18 +1,27 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontSize": 16,
-    "terminal.integrated.fontFamily": "Meslo LG S DZ for Powerline",
-    "terminal.integrated.fontSize": 15,
-    "workbench.colorTheme": "One Dark Pro",
-    "editor.wordWrap": "on",
-    "editor.wordWrapColumn": 79,
-    "editor.scrollBeyondLastLine": false,
-    "files.insertFinalNewline": true,
-    "window.zoomLevel": 0,
-    "workbench.iconTheme": "material-icon-theme",
-    // "http.proxy": "http://127.0.0.1:7777",
-    "go.formatTool": "gofmt",
-    "workbench.colorCustomizations": {
-        "editorIndentGuide.activeBackground": "#777777",
-    },
+  "editor.fontSize": 16,
+  "terminal.integrated.fontFamily": "Meslo LG S DZ for Powerline",
+  "terminal.integrated.fontSize": 15,
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 79,
+  "editor.scrollBeyondLastLine": false,
+  "files.insertFinalNewline": true,
+  "window.zoomLevel": 0,
+  "workbench.iconTheme": "material-icon-theme",
+  // "http.proxy": "http://127.0.0.1:1087",
+  "go.formatTool": "gofmt",
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground": "#777777"
+  },
+  "workbench.panel.defaultLocation": "bottom",
+  // "[typescriptreact]": {
+  //     "editor.formatOnSave": true
+  // },
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.formatOnSave": false
+  },
+  "editor.rulers": [80, 120]
 }
